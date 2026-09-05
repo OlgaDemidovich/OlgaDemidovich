@@ -1,10 +1,11 @@
 <div align="center">
 
-  <img src="https://github-readme-stats.jstriebel.xyz/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+  <!-- Ваши собственные картинки, которые обновляются автоматически -->
+  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/stats.svg" alt="GitHub Stats" />
   
   <br>
   
-  <img src="https://github-readme-stats.jstriebel.xyz/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/top-langs.svg" alt="Top Languages" />
   
   <br>
   
