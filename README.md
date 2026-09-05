@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- Ваши собственные картинки, которые обновляются автоматически -->
-  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/stats.png" alt="GitHub Stats" />
   
   <br>
   
-  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/top-langs.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/top-langs.png" alt="Top Languages" />
   
   <br>
   
