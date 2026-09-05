@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/stats.png" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-ten-97.vercel.app/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true&t=1" alt="GitHub Stats" />
   
   <br>
   
-  <img src="https://raw.githubusercontent.com/OlgaDemidovich/OlgaDemidovich/main/stats/top-langs.png" alt="Top Languages" />
+  <img src="https://github-readme-stats-eta-ten-97.vercel.app/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark&t=1" alt="Top Languages" />
   
   <br>
   
