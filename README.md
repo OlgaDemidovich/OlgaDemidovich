@@ -1,7 +1,16 @@
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats-8dqcb1a9u-olgademidovich.vercel.app/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true&t=1736123456)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true&cache_seconds=86400" alt="GitHub Stats" />
   
-  ![Top Langs](https://github-readme-stats-8dqcb1a9u-olgademidovich.vercel.app/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark&t=1736123456)
+  <br>
+  
+  <!-- Топ языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+  
+  <br>
+  
+  <!-- Streak (добавил для красоты) -->
+  <img src="https://streak-stats.demolab.com/?user=OlgaDemidovich&theme=dark" alt="GitHub Streak" />
   
 </div>
