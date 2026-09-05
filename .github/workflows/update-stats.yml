@@ -13,13 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Stats (PNG)
         run: |
-          curl -o stats/stats.svg "https://github-readme-stats.vercel.app/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true"
+          curl -o stats/stats.png "https://github-readme-stats.vercel.app/api?username=OlgaDemidovich&show_icons=true&theme=dark&hide_title=true"
           
-      - name: Generate Top Languages
+      - name: Generate Top Languages (PNG)
         run: |
-          curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark"
+          curl -o stats/top-langs.png "https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaDemidovich&layout=compact&theme=dark"
           
       - name: Commit and push changes
         env:
